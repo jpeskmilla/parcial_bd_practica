@@ -189,4 +189,3 @@ INSERT INTO notificacion (notificacion_id, contacto_id, mensaje, fecha_envio, es
 (8, 8, 'Nuevo turno disponible', '2025-10-22 09:00:00', 'pendiente'),
 (9, 9, 'Recordatorio de cita próxima', '2025-10-22 15:30:00', 'enviado'),
 (10, 10, 'Gracias por usar ServiLiMar', '2025-10-23 10:00:00', 'enviado');
-```
